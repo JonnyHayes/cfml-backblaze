@@ -1,5 +1,6 @@
 # cfml-backblaze 
 This is a port of the BackBlaze API to use with Lucee (and Adobe CF). 
+See https://www.backblaze.com/b2/docs/b2_authorize_account.html
 
 Usage:
 Clone the repo, change the variables in Application.cfc for your account 
