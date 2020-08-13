@@ -1,0 +1,8 @@
+{
+  "aws": {
+    "region": "us-west-000",
+    "bucket": "backblazeb2.com",
+    "accessID": "your_accessID",
+    "secretKey": "your_secretKey"
+  }
+}
